@@ -1,0 +1,21 @@
+.pop-div {
+    font-size: 13px;
+    margin-top: 100px;
+    border:1px solid #FFFFFF;
+    border-radius:10px;
+    -webkit-box-shadow:5px 0px 5px;
+    box-shadow:0px 0px 4px;
+    width:300px;
+    height:130px;
+    margin:5px;
+    position:fixed;
+    bottom:0px;
+    background-color:#FFFFFF;
+    opacity:0;
+    -webkit-transition:all .5s;
+    transition:all .5s;
+}
+.pop-content{
+	margin:10px;
+}
+
